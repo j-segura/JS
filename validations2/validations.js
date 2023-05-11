@@ -78,3 +78,9 @@ window.addEventListener('load', () =>{
     }
 
 })
+
+const xx = () => {
+
+    console.log('bYS3Gur4');
+
+}
